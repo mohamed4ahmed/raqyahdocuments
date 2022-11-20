@@ -13,20 +13,14 @@ function App() {
   return (
     <div className="App">
       <div className='documents'> 
-        <img src={dareba1} alt='dareba1'></img>
-        <img src={dareba2} alt='dareba2'></img>
-        <br></br>
-        <img src={ro5stbaladya} alt='ro5stbaladya'></img>
-        <br></br>
-        <img src={ro5stbona} alt='ro5stbona'></img>
-        <br></br>
-        <img src={ro5stsna3ya1} alt='ro5stsna3ya1'></img>
-        <br></br>
-        <img src={sgeltogary2} alt='sgeltogary2'></img>
-        <br></br>
-        <img src={shahadas3wada} alt='shahadas3wada'></img>
-        <br></br>
-        <img src={tasre7be2a} alt='tasre7be2a'></img>
+        <img src={dareba1} alt='dareba1' className='img' ></img>
+        <img src={dareba2} alt='dareba2' className='img' ></img>
+        <img src={ro5stbaladya} alt='ro5stbaladya' className='img' ></img>
+        <img src={ro5stbona} alt='ro5stbona' className='img' ></img>
+        <img src={ro5stsna3ya1} alt='ro5stsna3ya1' className='img' ></img>
+        <img src={sgeltogary2} alt='sgeltogary2' className='img' ></img>
+        <img src={shahadas3wada} alt='shahadas3wada' className='img' ></img>
+        <img src={tasre7be2a} alt='tasre7be2a' className='img' ></img>
       </div>
      
     </div>
