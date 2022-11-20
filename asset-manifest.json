@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/raqyahdocuments/static/css/main.37c9098e.css",
-    "main.js": "/raqyahdocuments/static/js/main.424e95ca.js",
+    "main.css": "/raqyahdocuments/static/css/main.29e2a442.css",
+    "main.js": "/raqyahdocuments/static/js/main.e260529e.js",
     "static/js/787.782620a6.chunk.js": "/raqyahdocuments/static/js/787.782620a6.chunk.js",
     "static/media/tasre7be2a.png": "/raqyahdocuments/static/media/tasre7be2a.418c5fa48c53d92e14d4.png",
     "static/media/sgeltogary2.png": "/raqyahdocuments/static/media/sgeltogary2.e41edc86fa70163a3f71.png",
@@ -12,12 +12,12 @@
     "static/media/ro5stsna3ya1.png": "/raqyahdocuments/static/media/ro5stsna3ya1.f4eeb7d22b0a894abe82.png",
     "static/media/ro5stbona.png": "/raqyahdocuments/static/media/ro5stbona.9b9ae34182b571dce2a7.png",
     "index.html": "/raqyahdocuments/index.html",
-    "main.37c9098e.css.map": "/raqyahdocuments/static/css/main.37c9098e.css.map",
-    "main.424e95ca.js.map": "/raqyahdocuments/static/js/main.424e95ca.js.map",
+    "main.29e2a442.css.map": "/raqyahdocuments/static/css/main.29e2a442.css.map",
+    "main.e260529e.js.map": "/raqyahdocuments/static/js/main.e260529e.js.map",
     "787.782620a6.chunk.js.map": "/raqyahdocuments/static/js/787.782620a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.37c9098e.css",
-    "static/js/main.424e95ca.js"
+    "static/css/main.29e2a442.css",
+    "static/js/main.e260529e.js"
   ]
 }
